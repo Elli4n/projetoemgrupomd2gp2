@@ -1,3 +1,6 @@
+.conteiner {
+  padding: 6px;
+}
 .rating {
   --active: #FFED76;
   --active-pale: rgba(255, 237, 118, .36);

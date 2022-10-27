@@ -1,3 +1,6 @@
+.conteiners {
+  padding: 6px;
+}
 :root {
   --primary: #e01705;
   --secondary: #0a1f44;
@@ -102,7 +105,6 @@ button:focus {
   right: 0;
   width: 100%;
   text-align: center;
-  padding: 1rem 0;
   background-color: #0a1f44;
   font-size: .9rem;
   cursor: pointer;
